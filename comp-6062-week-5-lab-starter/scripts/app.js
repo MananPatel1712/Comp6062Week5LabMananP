@@ -12,7 +12,6 @@ let b = parseFloat(prompt('Enter Number for b'));
 
 // Create your variables below this line
 
-@ -0,0 +1,123 @@
 console.log('JS loaded!!');
 
 // Remember to inspect in Chrome, and click onto console to see errors!
