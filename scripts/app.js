@@ -16,7 +16,7 @@ let isStrictEqual;
 let isNotEqual;
 let isStrictNotEqual;
 let add;
-let substract;
+let sub;
 let multiply;
 let power;
 let division;
@@ -46,7 +46,7 @@ isStrictNotEqual=(a!==b);
 add=(a+b);
 // Example: let sub;
 // Subtract 'b' from 'a'.
-substract=(b-a);
+sub=(b-a);
 // Example: let multiply;
 // Multiply 'a' and 'b'.
 multiply=(a*b);
