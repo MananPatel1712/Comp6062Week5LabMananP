@@ -1,19 +1,4 @@
 console.log('JS loaded!!');
-
-// Remember to inspect in Chrome, and click onto console to see errors!
-// Step 1: Declare two variables 'a' and 'b' and assign them numeric values.
-// Example: let a; let b;
-// Assign appropriate numeric values to these variables. For example 3 and 5
-// I have used prompt here to allow you to enter numbers on page load!
-// parseFloat() method is a JavaScript function used to convert strings into floating-point numbers
-// :) Continue to Step 2
-let a = parseFloat(prompt('Enter Number for a'));
-let b = parseFloat(prompt('Enter Number for b'));
-
-// Create your variables below this line
-
-console.log('JS loaded!!');
-
 // Remember to inspect in Chrome, and click onto console to see errors!
 // Step 1: Declare two variables 'a' and 'b' and assign them numeric values.
 // Example: let a; let b;
